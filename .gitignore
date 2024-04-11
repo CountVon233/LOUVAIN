@@ -9,3 +9,10 @@
 ./convert
 ./matrix
 ./hierarchy
+dataset/LiveJournal
+dataset/uk2002
+dataset/uk2005
+dataset/louvain_bin/LiveJournal
+dataset/louvain_bin/uk2002
+dataset/louvain_bin/uk2005
+tools/getSpNode
