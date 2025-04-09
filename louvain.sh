@@ -6,9 +6,14 @@ echo -e "\n Executing louvain.sh...\n"
 # python3 /mnt/data/nfs/yusong/code/SumInc/expr2/sh/gen_inc2.py /mnt/data/nfs/yusong/dataset/large/soc-twitter/soc-twitter.e 0.0001 -w=0 
 
 # name=test
-name=LiveJournal
+# name=LiveJournal
 # name=uk2002
 # name=uk2005
+# name=dblp-undirected
+# name=LiveJournal-undirected
+# name=orkut-undirected
+name=uk2005-undirected
+# name=uk2005-directed
 # name=europe_osm
 # name=web-uk-2005
 percentage=0.0000 # 0.3000 0.4000

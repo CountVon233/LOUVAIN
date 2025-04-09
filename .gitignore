@@ -12,7 +12,17 @@
 dataset/LiveJournal
 dataset/uk2002
 dataset/uk2005
+dataset/LiveJournal-undirected
+dataset/dblp-undirected
+dataset/orkut-undirected
+dataset/uk2005-directed
+dataset/uk2005-undirected
 dataset/louvain_bin/LiveJournal
+dataset/louvain_bin/LiveJournal-undirected
+dataset/louvain_bin/dblp-undirected
+dataset/louvain_bin/orkut-undirected
+dataset/louvain_bin/uk2005-directed
+dataset/louvain_bin/uk2005-undirected
 dataset/louvain_bin/uk2002
 dataset/louvain_bin/uk2005
 tools/getSpNode

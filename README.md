@@ -120,4 +120,4 @@ Version 0.1 and 0.2:
 
 
 Notes:
-  1. 将图文件转为二进制时，已经将图转为了无向图，即每个点的记录的邻居包含了原图中其入边和出边。
+  1. 在 dataset 中建立数据集 ${name} 的目录，数据集以 ${name}.base 格式保存在改目录下，然后修改 louvain.sh ，再运行 louvain.sh即可
